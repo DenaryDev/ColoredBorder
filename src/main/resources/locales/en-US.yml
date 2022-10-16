@@ -1,0 +1,9 @@
+border:
+  parameters: "<red|blue|green>"
+  description: "change border color"
+  colors: "&cUnknown color, available: &r[colors]"
+  changed: "&aBorder color changed to &7'[color]&7'"
+colors:
+  red: "&cRed"
+  blue: "&9Blue"
+  green: "&2Green"

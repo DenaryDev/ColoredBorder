@@ -1,0 +1,9 @@
+border:
+  parameters: "<red|blue|green>"
+  description: "изменяет цвет границы"
+  colors: "&cНеизвестный цвет, доступные цвета: &e[colors]"
+  changed: "&aЦвет границы изменён на &7'[color]&7'"
+colors:
+  red: "&cКрасный"
+  blue: "&9Синий"
+  green: "&2Зелёный"

@@ -1,0 +1,7 @@
+name: ColoredBorderPladdon
+main: me.denarydev.border.ColoredBorderPladdon
+version: ${version}
+api-version: 1.19
+author: DenaryDev
+depend:
+  - BentoBox

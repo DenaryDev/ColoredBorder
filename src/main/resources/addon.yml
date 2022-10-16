@@ -1,0 +1,7 @@
+name: ColoredBorder
+main: me.denarydev.border.ColoredBorder
+version: ${version}
+api-version: ${bentobox_version}
+icon: STRUCTURE_VOID
+repository: "DenaryDev/ColoredBorder"
+authors: [ DenaryDev ]
